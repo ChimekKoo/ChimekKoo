@@ -13,5 +13,5 @@ About me:
 - :octocat: I'm currently working on:
   - [slothbot](https://github.com/ChimekKoo/slothbot) - polish-language AI chatbot and moderation discord bot,
   - [allpaca](https://github.com/ChimekKoo/allpaca) - Multi-language project creating and dependencies management.
-  - [odmozdzacze](https://github.com/odmozdzacze) - Odmozdzacze.pl website (Isn't deployed yet)
+  - [odmozdzacze](https://github.com/odmozdzacze) - Odmozdzacze.com website (Isn't deployed yet)
 - :speech_balloon: Feel free to contact me on Discord: **ChimekKoo#6600**.
