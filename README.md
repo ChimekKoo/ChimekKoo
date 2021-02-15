@@ -9,7 +9,12 @@ About me:
 - :boy: I'm from Poland.
 - :sloth: I love sloths!
 - :snake: My main and favorite programming language is **[Python](https://www.python.org/)**.
-- :muscle: I'm learning **[Django](https://www.djangoproject.com/)** and **[JavaScript](https://www.javascript.com/)**.
+- :ski: My skills:
+  - [Python](https://www.python.org/),
+  - [HTML & CSS](https://w3.org/)
+- :muscle: I'm learning:
+  - [Django](https://www.djangoproject.com/),
+  - [JavaScript](https://www.javascript.com/) + [Node.js](https://nodejs.org/)
 - :octocat: I'm currently working on:
   - [slothbot](https://github.com/ChimekKoo/slothbot) - polish-language AI chatbot and moderation discord bot,
   - [allpaca](https://github.com/ChimekKoo/allpaca) - Multi-language project creating and dependencies management.
