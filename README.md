@@ -1,8 +1,10 @@
 # Hi! I'm [@ChimekKoo](https://github.com/ChimekKoo) :wave:!
 
+![ChimekKoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=chimekkoo&show_icons=true&theme=dark)
+
 I'm a still-learning developer.
 My motto:
-> :muscle: Keep learning. It's never too late!
+> :muscle: Keep learning! It's never too late!
 
 About me:
 - I :heart: to code!
