@@ -13,12 +13,16 @@ About me:
 - :snake: My main and favorite programming language is **[Python](https://www.python.org/)**.
 - :ski: My skills:
   - [Python](https://www.python.org/),
-  - [HTML & CSS](https://w3.org/)
+  - [Flask](https://flask.palletsprojects.com/),
+  - [HTML & CSS](https://w3.org/),
+  - [MongoDB](https://www.mongodb.com/)
 - :muscle: I'm learning:
   - [Django](https://www.djangoproject.com/),
   - [JavaScript](https://www.javascript.com/) + [Node.js](https://nodejs.org/)
 - :octocat: I'm currently working on:
-  - [slothbot](https://github.com/ChimekKoo/slothbot) - polish-language AI chatbot and moderation discord bot,
+  - [slothbot](https://github.com/ChimekKoo/slothbot) - Multi-purpose discord bot,
   - [allpaca](https://github.com/ChimekKoo/allpaca) - Multi-language project creating and dependencies management.
-  - [odmozdzacze](https://github.com/odmozdzacze) - Odmozdzacze.com website (Isn't deployed yet)
-- :speech_balloon: Feel free to contact me on Discord: **ChimekKoo#6600**.
+  - [odmozdzacze](https://github.com/odmozdzacze) - Odmozdzacze.com website (Isn't deployed yet),
+  - And more... ([See my repos](https://github.com/ChimekKoo?tab=repositories))
+- :speech_balloon: Discord: **ChimekKoo#6600**
+- :email: 
