@@ -25,4 +25,4 @@ About me:
   - [odmozdzacze](https://github.com/odmozdzacze) - Odmozdzacze.com website (Isn't deployed yet),
   - And more... ([See my repos](https://github.com/ChimekKoo?tab=repositories))
 - :speech_balloon: Discord: **ChimekKoo#6600**
-- :email: 
+- :email: Email: **[chimeksushi@gmail.com](mailto:chimeksushi@gmail.com)**
