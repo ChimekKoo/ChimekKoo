@@ -18,7 +18,10 @@ About me:
   - [MongoDB](https://www.mongodb.com/)
 - :muscle: I'm learning:
   - [Django](https://www.djangoproject.com/),
-  - [JavaScript](https://www.javascript.com/) + [Node.js](https://nodejs.org/)
+  - [JavaScript](https://www.javascript.com/),
+  - [Node.js](https://nodejs.org/),
+  - [Express.js](https://expressjs.com/),
+  - [Electron](https://www.electronjs.org/)
 - :octocat: I'm currently working on:
   - [slothbot](https://github.com/ChimekKoo/slothbot) - Multi-purpose discord bot,
   - [allpaca](https://github.com/ChimekKoo/allpaca) - Multi-language project creating and dependencies management.
