@@ -23,7 +23,7 @@ About me:
   - [Electron](https://www.electronjs.org/)
 - :octocat: I'm currently working on:
   - [slothbot](https://github.com/ChimekKoo/slothbot) - Multi-purpose discord bot,
-  - [allpaca](https://github.com/ChimekKoo/allpaca) - Multi-language project creating and dependencies management.
+  - [patab](https://github.com/ChimekKoo/patab) and [patab-desktop](https://github.com/ChimekKoo/patab-desktop) - Electron-based anonymous browser,
   - [odmozdzacze](https://github.com/odmozdzacze) - Odmozdzacze.com website (Isn't deployed yet),
   - And more... ([See my repos](https://github.com/ChimekKoo?tab=repositories))
 - :speech_balloon: Discord: **ChimekKoo#6600**
