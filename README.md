@@ -3,8 +3,7 @@
 ![ChimekKoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=chimekkoo&show_icons=true&theme=dark)
 
 I'm a still-learning developer.
-My motto:
-> :muscle: Keep learning! It's never too late!
+> :muscle: Keep learning!
 
 About me:
 - I :heart: to code!
