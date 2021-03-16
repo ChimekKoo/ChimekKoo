@@ -1,6 +1,6 @@
 # Hi! I'm [@ChimekKoo](https://github.com/ChimekKoo) :wave:!
 
-![ChimekKoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=chimekkoo&show_icons=true&theme=dark)
+[![ChimekKoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=chimekkoo&show_icons=true&theme=dark)](https://github.com/ChimekKoo)
 
 I'm a still-learning developer.
 > :muscle: Keep learning!
@@ -17,10 +17,8 @@ About me:
   - [MongoDB](https://www.mongodb.com/)
 - :muscle: I'm learning:
   - [Django](https://www.djangoproject.com/),
-  - [JavaScript](https://www.javascript.com/),
-  - [Node.js](https://nodejs.org/),
-  - [Express.js](https://expressjs.com/),
-  - [Electron](https://www.electronjs.org/)
+  - [JavaScript](https://www.javascript.com/) and [Node.js](https://nodejs.org/),
+  - Neural Networks
 - :octocat: I'm currently working on:
   - [slothbot](https://github.com/ChimekKoo/slothbot) - Multi-purpose discord bot,
   - [patab](https://github.com/ChimekKoo/patab) and [patab-desktop](https://github.com/ChimekKoo/patab-desktop) - Electron-based anonymous browser,
