@@ -13,6 +13,7 @@ About me:
 - :ski: My skills:
   - [Python](https://www.python.org/),
   - [Flask](https://flask.palletsprojects.com/),
+  - [C++](#)
   - [HTML & CSS](https://w3.org/),
   - [MongoDB](https://www.mongodb.com/)
 - :muscle: I'm learning:
