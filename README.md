@@ -20,6 +20,7 @@ About me:
   - [Django](https://www.djangoproject.com/),
   - [JavaScript](https://www.javascript.com/) and [Node.js](https://nodejs.org/),
   - Neural Networks
+  - Web security 🔒
 - :octocat: I'm currently working on:
   - [slothbot](https://github.com/ChimekKoo/slothbot) - Multi-purpose discord bot,
   - [patab](https://github.com/ChimekKoo/patab) and [patab-desktop](https://github.com/ChimekKoo/patab-desktop) - Proxy-based anonymous browser,
