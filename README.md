@@ -17,7 +17,7 @@ About me:
   - HTML & CSS
 - :muscle: I'm learning:
   - [Django](https://www.djangoproject.com/),
-  - [JavaScript](https://www.javascript.com/) and [Node.js](https://nodejs.org/),
+  - [JavaScript](https://www.javascript.com/), [Node.js](https://nodejs.org/), [Express.js](https://expressjs.com/),
   - Neural Networks
   - Web security 🔒
 - :octocat: I'm currently working on:
