@@ -14,8 +14,7 @@ About me:
   - [Python](https://www.python.org/) (of course :wink:),
   - [Flask](https://flask.palletsprojects.com/),
   - C++
-  - HTML & CSS,
-  - [MongoDB](https://www.mongodb.com/)
+  - HTML & CSS
 - :muscle: I'm learning:
   - [Django](https://www.djangoproject.com/),
   - [JavaScript](https://www.javascript.com/) and [Node.js](https://nodejs.org/),
