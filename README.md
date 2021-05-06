@@ -23,7 +23,7 @@ About me:
 - :octocat: I'm currently working on:
   - [slothbot](https://github.com/ChimekKoo/slothbot) - Multi-purpose discord bot,
   - [patab](https://github.com/ChimekKoo/patab) and [patab-desktop](https://github.com/ChimekKoo/patab-desktop) - Proxy-based anonymous browser,
-  - [odmozdzacze](https://github.com/odmozdzacze) - Website for reporting brain-removing cartoons, films and games,
+  - [odmozdzacze](https://github.com/odmozdzacze) - Website for reporting "*brain-removing*" cartoons, films and games,
   - And more... ([See my repos](https://github.com/ChimekKoo?tab=repositories))
 - :speech_balloon: Discord: **ChimekKoo#6600**
 - :email: Email: **[chimeksushi@gmail.com](mailto:chimeksushi@gmail.com)**
