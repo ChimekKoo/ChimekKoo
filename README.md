@@ -2,7 +2,8 @@
 
 [![ChimekKoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=chimekkoo&show_icons=true&theme=dark)](https://github.com/ChimekKoo)
 
-I'm a still-learning young developer and I'm from Poland.
+I'm still-learning young developer. I'm generally programming in Python.
+My motto:
 > Keep learning! :muscle:
 
 ### I'm coding in:  
