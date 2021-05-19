@@ -2,7 +2,7 @@
 
 [![ChimekKoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=chimekkoo&show_icons=true&theme=dark)](https://github.com/ChimekKoo)
 
-I'm a young, still-learning developer and I'm from Poland.
+I'm a still-learning young developer and I'm from Poland.
 > Keep learning! :muscle:
 
 ### I'm coding in:  
