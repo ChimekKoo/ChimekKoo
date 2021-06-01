@@ -29,7 +29,8 @@ My motto:
 ### I'm currently working on:
   - **[slothbot](https://github.com/ChimekKoo/slothbot)** - Multi-purpose discord bot,
   - **[patab](https://github.com/ChimekKoo/patab)** and **[patab-desktop](https://github.com/ChimekKoo/patab-desktop)** - Proxy-based anonymous browser,
-  - **[odmozdzacze](https://github.com/odmozdzacze)** - Website for reporting "*brain-removing*" cartoons, films and games,
+  - **[odmozdzacze](https://github.com/odmozdzacze/odmozdzacze)** - Website for reporting "*brain-removing*" cartoons, films and games,
+  - **[whatsapp-4linux](https://github.com/ChimekKoo/whatsapp-4linux) - WhatsApp unofficial native client for linux,
   - And more... ([See my repos](https://github.com/ChimekKoo?tab=repositories))
 
 ### Contact:
