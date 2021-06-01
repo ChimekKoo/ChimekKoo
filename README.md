@@ -6,7 +6,7 @@ I'm still-learning young developer. I'm generally programming in Python.
 My motto:
 > Keep learning! :muscle:
 
-### I'm coding in:  
+### I'm using:  
 ![python](https://img.shields.io/badge/-Python-3879b0?logo=python&logoColor=white&style=for-the-badge)
 ![flask](https://img.shields.io/badge/-Flask-white?logo=flask&logoColor=black&style=for-the-badge)
 ![jinja](https://img.shields.io/badge/-Jinja-white?logo=jinja&logoColor=black&style=for-the-badge)
